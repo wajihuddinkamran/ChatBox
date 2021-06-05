@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1063995532316",
+    "project_id": "chatjava-c7515",
+    "storage_bucket": "chatjava-c7515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063995532316:android:61ff4790937a62cb0d2bd9",
+        "android_client_info": {
+          "package_name": "com.project.chatbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063995532316-mvnb9i050lr9vmsvkrbe2pp37pl4h32s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.chatbox",
+            "certificate_hash": "63cec429eb636fdbfd18e06015258552ba727f8e"
+          }
+        },
+        {
+          "client_id": "1063995532316-pk1jgo8ori55880d37s5onroojeo95cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0cXlARI0ejehUntMxCURaDRQQQSQ5-Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063995532316-pk1jgo8ori55880d37s5onroojeo95cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
